@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["switch($gameVariables.value(7)){"]},{"code":655,"indent":0,"parameters":["    case 5:"]},{"code":655,"indent":0,"parameters":["        $gameMessage.setBackground(1);"]},{"code":655,"indent":0,"parameters":["        $gameMessage.setPositionType(2);"]},{"code":655,"indent":0,"parameters":["        $gameMessage.add(\"Get up!\");"]},{"code":655,"indent":0,"parameters":["        $gameVariables.setValue(7,8);"]},{"code":655,"indent":0,"parameters":["    break;"]},{"code":655,"indent":0,"parameters":["   case -5:"]},{"code":655,"indent":0,"parameters":["        $gameVariables.setValue(7,3);  "]},{"code":655,"indent":0,"parameters":["   break;"]},{"code":655,"indent":0,"parameters":["} "]},{"code":0,"indent":0,"parameters":[]}],"name":"button_mash_help","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
